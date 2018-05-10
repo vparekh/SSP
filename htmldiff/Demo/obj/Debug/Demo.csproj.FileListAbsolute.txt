@@ -1,0 +1,16 @@
+C:\Applications\htmldiff.net-master\Demo\bin\Demo.dll.config
+C:\Applications\htmldiff.net-master\Demo\bin\Demo.dll
+C:\Applications\htmldiff.net-master\Demo\bin\Demo.pdb
+C:\Applications\htmldiff.net-master\Demo\bin\HtmlDiff.dll
+C:\Applications\htmldiff.net-master\Demo\bin\HtmlDiff.pdb
+C:\Applications\htmldiff.net-master\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Applications\htmldiff.net-master\Demo\obj\Debug\Demo.dll
+C:\Applications\htmldiff.net-master\Demo\obj\Debug\Demo.pdb
+C:\Applications\SSPWebUI\htmldiff\Demo\bin\Demo.dll.config
+C:\Applications\SSPWebUI\htmldiff\Demo\bin\Demo.dll
+C:\Applications\SSPWebUI\htmldiff\Demo\bin\Demo.pdb
+C:\Applications\SSPWebUI\htmldiff\Demo\bin\HtmlDiff.dll
+C:\Applications\SSPWebUI\htmldiff\Demo\bin\HtmlDiff.pdb
+C:\Applications\SSPWebUI\htmldiff\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Applications\SSPWebUI\htmldiff\Demo\obj\Debug\Demo.dll
+C:\Applications\SSPWebUI\htmldiff\Demo\obj\Debug\Demo.pdb

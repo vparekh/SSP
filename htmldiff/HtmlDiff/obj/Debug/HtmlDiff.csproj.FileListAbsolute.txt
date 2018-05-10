@@ -1,0 +1,10 @@
+C:\Applications\htmldiff.net-master\HtmlDiff\bin\Debug\HtmlDiff.dll
+C:\Applications\htmldiff.net-master\HtmlDiff\bin\Debug\HtmlDiff.pdb
+C:\Applications\htmldiff.net-master\HtmlDiff\obj\Debug\HtmlDiff.csprojResolveAssemblyReference.cache
+C:\Applications\htmldiff.net-master\HtmlDiff\obj\Debug\HtmlDiff.dll
+C:\Applications\htmldiff.net-master\HtmlDiff\obj\Debug\HtmlDiff.pdb
+C:\Applications\SSPWebUI\htmldiff\HtmlDiff\bin\Debug\HtmlDiff.dll
+C:\Applications\SSPWebUI\htmldiff\HtmlDiff\bin\Debug\HtmlDiff.pdb
+C:\Applications\SSPWebUI\htmldiff\HtmlDiff\obj\Debug\HtmlDiff.csprojResolveAssemblyReference.cache
+C:\Applications\SSPWebUI\htmldiff\HtmlDiff\obj\Debug\HtmlDiff.dll
+C:\Applications\SSPWebUI\htmldiff\HtmlDiff\obj\Debug\HtmlDiff.pdb
