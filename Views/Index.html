@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+
+<body ng-app="app">
+
+    <div ng-controller="ProtocolCtrl">
+        <h3>Sample AngularJS Rich UI </h3>
+        <p>It calls SSPWebAPI to get a list of protocols to populate dropdown. Make sure SSPWebAPI is running and Cors is enabled in Web API so that it can be accessed from javascript.</p>
+               
+        <select ng-model="selectedProtocol" ng-options="protocol.ProtocolName for protocol in protocols track by protocol.ProtocolCkey"></select>
+        <p>{{selectedProtocol}}</p>
+       
+    </div>
+    <p>Sample Treeview</p>
+    <ng-tree></ng-tree>
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <!--List app.js first-->
+    <script src="../Scripts/App.js"></script>
+    <script src="../Scripts/Controller/allControllers.js"></script>
+    <script src="../Scripts/Directives/treeview.js"></script>
+    
+</body>
+
+</html>

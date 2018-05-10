@@ -1,0 +1,10 @@
+﻿@using DevExpress.Web..Mvc.UI;
+
+@model SSPWebUI.Areas.MVC.Models.RichEditData
+
+@Html.DevExpress.RichEdit(settings =>
+{
+    settings.Name = "RichEditName";
+    settings.CallbackRouteValues = new { Controller = "Home", Action = "RichEditPartial" };
+    settings.Width = System.Web.UI.WebControls.Unit.Percentage(100);
+}).Open(Model.DocumentId, Model.DocumentFormat, () => { return Model.Document; }).GetHtml()
