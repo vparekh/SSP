@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 37.25" name="sample">
+  <DataContextMoniker Name="/sampleDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e857a908-0389-4719-b038-6172e42981fb" absoluteBounds="0.875, 0.5, 2, 36.0005517578125">
+      <DataClassMoniker Name="/sampleDataContext/ChecklistTemplateItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f1f9672-1da5-4753-8f7c-d18a22ee02b8" absoluteBounds="0.88999999999999968, 0.96, 1.9700000000000002, 35.4405517578125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.58423076923077 : 36.5005517578125); (1.58423076923077 : 36.7505517578125); (2.17961538461538 : 36.7505517578125); (2.17961538461538 : 36.5005517578125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/sampleDataContext/ChecklistTemplateItem/ChecklistTemplateItem_ChecklistTemplateItem" />
+      <nodes>
+        <classShapeMoniker Id="e857a908-0389-4719-b038-6172e42981fb" />
+        <classShapeMoniker Id="e857a908-0389-4719-b038-6172e42981fb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.58423076923077 : 0.5); (1.58423076923077 : 0.25); (2.17961538461538 : 0.25); (2.17961538461538 : 0.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/sampleDataContext/ChecklistTemplateItem/ChecklistTemplateItem_ChecklistTemplateItem1" />
+      <nodes>
+        <classShapeMoniker Id="e857a908-0389-4719-b038-6172e42981fb" />
+        <classShapeMoniker Id="e857a908-0389-4719-b038-6172e42981fb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(0.875 : 12.7171098257212); (0.625 : 12.7171098257212); (0.625 : 24.5588307917668); (0.875 : 24.5588307917668)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/sampleDataContext/ChecklistTemplateItem/ChecklistTemplateItem_ChecklistTemplateItem2" />
+      <nodes>
+        <classShapeMoniker Id="e857a908-0389-4719-b038-6172e42981fb" />
+        <classShapeMoniker Id="e857a908-0389-4719-b038-6172e42981fb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 12.7171098257212); (3.125 : 12.7171098257212); (3.125 : 24.5588307917668); (2.875 : 24.5588307917668)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/sampleDataContext/ChecklistTemplateItem/ChecklistTemplateItem_ChecklistTemplateItem3" />
+      <nodes>
+        <classShapeMoniker Id="e857a908-0389-4719-b038-6172e42981fb" />
+        <classShapeMoniker Id="e857a908-0389-4719-b038-6172e42981fb" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
