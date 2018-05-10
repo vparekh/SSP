@@ -1,0 +1,10 @@
+﻿<ul>
+    <li ng-repeat="item in items" ng-click="showStates(item)">
+        <span>{{item.country}}</span>
+         <ul>
+            <li ng-repeat="subitem in item.states" ng-show="item.active">
+                <span>{{subitem.state}}</span>
+            </li>
+        </ul>
+    </li>
+</ul>
